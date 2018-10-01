@@ -3,7 +3,7 @@ class DBClass {
 
     private $host = "localhost";
     private $username = "root";
-    private $password = "pethukmysql123";
+    private $password = "";
     private $database = "perpus";
 
     public $connection;
